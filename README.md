@@ -1,4 +1,4 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>An Unexpected Journey</title>
+    <title>Spectrum!</title>
